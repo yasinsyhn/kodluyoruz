@@ -1,0 +1,2 @@
+# kodluyoruz
+www.patika.dev
